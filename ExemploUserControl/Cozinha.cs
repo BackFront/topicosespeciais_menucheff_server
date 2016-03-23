@@ -14,7 +14,20 @@ namespace ExemploUserControl
 	{
 		public Cozinha()
 		{
-			InitializeComponent();
+			InitializeComponent();			
+			for(int i=0; i<10; ++i)
+			{
+				Itens pedido = new Itens();
+				pedido.Mensagem = "oi - "+i;
+				pedido.btnAcao += removerItem;
+				panel.Controls.Add(pedido);
+			}
+		}
+
+		private void removerItem(object sender, EventArgs e)
+		{
+			Itens pedidoAcao = (Itens)sender;
+			panel.Controls.Remove(pedidoAcao);
 		}
 	}
 }
