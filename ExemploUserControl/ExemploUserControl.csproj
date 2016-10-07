@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Balcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Balcao.Designer.cs">
+      <DependentUpon>Balcao.cs</DependentUpon>
+    </Compile>
     <Compile Include="Cozinha.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Balcao.resx">
+      <DependentUpon>Balcao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Cozinha.resx">
       <DependentUpon>Cozinha.cs</DependentUpon>
     </EmbeddedResource>

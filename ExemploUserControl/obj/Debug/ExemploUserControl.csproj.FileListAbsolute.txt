@@ -1,0 +1,14 @@
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\bin\Debug\ExemploUserControl.exe.config
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\bin\Debug\ExemploUserControl.exe
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\bin\Debug\ExemploUserControl.pdb
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\bin\Debug\LibUDP.dll
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.Balcao.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.Cozinha.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.Form1.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.Itens.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.MeuUserControl.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.Properties.Resources.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.csproj.GenerateResource.Cache
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.exe
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.pdb
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.csprojResolveAssemblyReference.cache
